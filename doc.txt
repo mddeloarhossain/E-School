@@ -1,0 +1,45 @@
+e-school:
+
+font-family: 'Poppins' 
+font-weight: 400
+			 700
+			 500
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+Color:
+background: #F0FFF0;
+color: #000000; Black
+	   #21B573; Green
+       #FFFFFF; White
+	   hover #FD511A
+
+header:
+
+
+banner-------------------------------------------------
+xxl-xl-lg              md         sm-col
+
+padding                
+35/65                 10/60
+
+h1 xxl-xl-48       lg-42      md 35
+-------------------------------------------------------
+feature
+xxl-xl-lg              md         sm-col
+pb  100               80           60
+
+
+s_feature mt 40
+
+layout:
+
+section define:
+
+semantic:
+
+code comment:
+
+resue code:
+
+code repeatation:
